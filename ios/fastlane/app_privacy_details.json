@@ -1,0 +1,16 @@
+[
+    {
+        "category": "FITNESS",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING",
+            "PRODUCT_PERSONALIZATION",
+            "OTHER_PURPOSES",
+            "APP_FUNCTIONALITY",
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    }
+]
